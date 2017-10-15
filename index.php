@@ -16,7 +16,7 @@
 
   <link id="c4c-base-style" rel="stylesheet" type="text/css" href="/assets/css/sites.css" />
   <link rel="stylesheet" type="text/css" href="/assets/css/fancybox.css?1506722889" />
-  <link rel="stylesheet" type="text/css" href="http://cdn2.editmysite.com/css/social-icons.css?buildtime=1506722889" media="screen,projection" />
+  <link rel="stylesheet" type="text/css" href="https://cdn2.editmysite.com/css/social-icons.css?buildtime=1506722889" media="screen,projection" />
   <link rel="stylesheet" type="text/css" href="/assets/css/main_style.css" title="c4c-theme-css" />
   <link href='https://fonts.googleapis.com/css?family=Sintony:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
   <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
